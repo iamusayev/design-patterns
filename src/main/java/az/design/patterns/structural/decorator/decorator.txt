@@ -1,0 +1,21 @@
+Design pattern: Decorator
+====================================================================================================
+Objective:
+
+To dynamically add new responsibilities to an object.
+
+====================================================================================================
+
+What it's used for:
+
+Used as an alternative to spawning subclasses to extend functionality.
+
+====================================================================================================
+
+Example usage:
+
+- Dynamic and clear clients adding responsibilities to objects;
+- implementation of duties that can be removed from an object;
+- class extension by subclass generation is not possible for some reason.
+
+====================================================================================================
