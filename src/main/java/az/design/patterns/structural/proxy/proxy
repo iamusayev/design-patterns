@@ -1,0 +1,23 @@
+Design pattern: Proxy
+
+===================================================================================================
+Purpose:
+
+To replace another object and control access to it.
+
+===================================================================================================
+
+What it is used for:
+
+To provide access control to a specific object.
+
+===================================================================================================
+Example of use:
+
+- When there is a need to reference an object in a way other than a normal pointer:
+    remote substitution - local representation of an object in another address space
+    virtual substitution - creation of "heavy objects" as the need arises
+    protected substitution - object access control
+    "smart reference - replacement of a usual pointer (counting the number of references, setting blocking, etc.)
+
+===================================================================================================
