@@ -1,0 +1,20 @@
+Design pattern: Command
+================================================================================
+Objective:
+
+Encapsulating a request into an object.
+
+================================================================================
+
+What it is used for:
+
+To set client parameters to handle certain requests, create a queue of those requests
+or their control and to support the cancellation of operations.
+
+================================================================================
+Example usage:
+
+- Parameterize objects to be executed by an action:
+- To define a request, queue it, or execute it at different times
+
+================================================================================
