@@ -1,0 +1,20 @@
+Design Pattern: Interpreter
+=============================================================================================
+Objective:
+
+Defining the representation of an object
+
+=============================================================================================
+
+What it is used for:
+
+Used to define a representation of a language's grammar and interpret its applications
+
+=============================================================================================
+Example of use:
+
+- Simplification of class hierarchy by interpretation.
+
+=============================================================================================
+
+Translated with www.DeepL.com/Translator (free version)
