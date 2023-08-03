@@ -1,0 +1,21 @@
+Template: Flyweight
+
+=========================================================================================================
+Objective:
+
+Support for multiple small objects
+
+=========================================================================================================
+
+What it's used for:
+
+Uses separation in order to support many small objects.
+
+=========================================================================================================
+Example of use:
+
+- When a large number of objects are used:
+   - most of the state of the objects can be taken outside:
+   - application does not depend on object identity.
+
+=========================================================================================================

@@ -1,0 +1,21 @@
+Design pattern: Chain Of Responsibility
+================================================= ================================================= ================
+Target:
+
+Associating recipient objects in a chain and passing a request along it.
+
+================================================= ================================================= ================
+
+What is used for:
+
+Helps to avoid binding the sender of a request to its recipient, which makes it possible to process this request
+multiple objects.
+
+================================================= ================================================= ================
+
+Usage example:
+
+- weakening of attachment (the object should not know who exactly will process its request)
+- additional flexibility in the distribution of responsibilities between objects
+
+================================================= ================================================= ================
