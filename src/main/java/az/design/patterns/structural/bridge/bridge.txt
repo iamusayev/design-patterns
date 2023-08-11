@@ -1,0 +1,20 @@
+Design Pattern: Bridge
+=================================================================================================
+Objective:
+
+Separate abstraction from implementation so that they can change independently of each other.
+
+=================================================================================================
+
+What to use for:
+
+To take advantage of inheritance without losing flexibility.
+
+=================================================================================================
+
+- To prevent the abstraction from being rigidly bound to the implementation (e.g., the implementation must be chosen at runtime)
+- in the future, we want to extend both implementation and abstraction with subclasses;
+- if changes in the implementation should not be reflected in the abstraction's clients;
+- to split one implementation between multiple objects and not show this to the client
+
+=================================================================================================

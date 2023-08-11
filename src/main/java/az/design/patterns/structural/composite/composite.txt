@@ -1,0 +1,17 @@
+Design pattern: Composite
+====================================================================================================
+Objective:
+
+Compose objects into "tree-like" structures, allowing clients to treat individual and composite objects alike.
+
+====================================================================================================
+
+What it's used for:
+
+To combine small components into larger ones that, in turn, can become the basis for even larger structures.
+
+====================================================================================================
+Example use:
+
+- To represent a "part-whole" hierarchy
+- we want clients to treat both the individual objects and the constituent objects equally.
